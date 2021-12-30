@@ -1,0 +1,18 @@
+body {
+    margin: 60px;
+    margin-left: 300px;
+    align-items: center;
+  }
+  img {
+    align-items: center;
+  }
+
+p{
+    font-size: 28px;
+    width: 200px;
+    text-align: center;
+}
+img{
+    width: 900px;
+    height: 500px;
+}
